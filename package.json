@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^8.0.1"
+  }, 
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  }
+}
